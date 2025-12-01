@@ -47,11 +47,6 @@ const ejer6 = async () => {
   }
 };
 
-/* 👉 Hacerlas accesibles desde los botones */
-window.ejer3 = ejer3;
-window.ejer4 = ejer4;
-window.ejer5 = ejer5;
-window.ejer6 = ejer6;
 
 
 
